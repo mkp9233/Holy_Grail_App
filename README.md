@@ -26,7 +26,7 @@ Here's the example
 
 <img src = 'https://github.com/mkp9233/Holy_Grail_App/blob/main/public/server.png?token=ATDMTEFBO4QJRPZRFW4K4WDBNPNYY' width="300" height="220"> 
 
-<img src = 'https://raw.githubusercontent.com/anyapages/holy-grail-app/main/public/redis%20server1.png?token=ATDMTEFBO4QJRPZRFW4K4WDBNPNYY' width="300" height="220"> 
+<img src = 'https://github.com/mkp9233/Holy_Grail_App/blob/main/public/server1.png?token=ATDMTEFBO4QJRPZRFW4K4WDBNPNYY' width="300" height="220"> 
 
 <img src = 'https://github.com/mkp9233/Holy_Grail_App/blob/main/public/example.gif?token=ATDMTEAYRRPT223GZJJKUTDBNPK5I' width="550" height="440"> 
 
