@@ -6,15 +6,15 @@ Here's the example
 
 ## Tasks:
 
-- Use the Redis client to initialise values for header, left, article, right, and footer. These values should be.
-
-```javascript
-    "header", 0, "left", 0, "article", 0, "right", 0, "footer", 0 
-```
-
-- Implement the ```data()``` method to use Promises to get the values, using the Redis client.
-
-- Implement the ```/update/:key/:value``` enpoint by using the Redis client to update a given key-value pair.
+● Set up the Redis Docker container locally. 
+● Install the Redis npm package. 
+● Update the index.js file to include the following: 
+○ "header", 0, "left", 0, "article", 0, "right", 0, "footer", 0 
+○ Create a Redis client. 
+○ Use the Redis client to initialize values for header, left, article, right, and footer. These values should be 
+"header", 0, "left", 0, "article", 0, "right", 0, "footer", 0 
+● Implement the data() method to use Promises to get the values for header, left, right, article and footer using the Redis client. 
+● Implement the /update/:key/:value endpoint by using the Redis client to update a given key-value pair. You should first locate the records matching the provided key and then update it to the new provided value. 
 
 ## Installation
 
