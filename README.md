@@ -2,7 +2,7 @@
 
 Here's the example
 
-<img src = 'https://raw.githubusercontent.com/anyapages/holy-grail-app/main/public/example.png?token=ATDMTEDNTR4WVHJ53R25ZADBNPK5G' width="400" height="340"> 
+<img src = 'https://github.com/mkp9233/Holy_Grail_App/blob/main/public/example.png?token=ATDMTEDNTR4WVHJ53R25ZADBNPK5G' width="400" height="340"> 
 
 ## Tasks:
 
