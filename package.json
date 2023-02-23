@@ -4,7 +4,7 @@
   "description": "full stack app sample",
   "main": "index.js",
   "private": "true",
-  "author": "Anya Paranya",
+  "author": "Manojkumar Pandey",
   "license": "MIT",
   "engines": {
     "node": "14.x",
@@ -18,7 +18,7 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/anyapages/holy-grail-app"
+    "url": "https://github.com/mkp9233/Holy_Grail_App"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
